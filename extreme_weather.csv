@@ -1,0 +1,13 @@
+Ser_No,Met_Element,Value,Date_Time_of_Occurrence
+1,Maximum temperature,43.20C,09 May 09
+2,Minimum temperature,04.20C,09 JAN 13
+3,Monthly highest mean maximum temperature,35.70C,In April
+4,Monthly lowest mean minimum temperature,10.70C,In January
+5,Maximum amount of rainfall in a day,255 mm,26 Sep 86
+6,Maximum amount of rainfall in a month,856 mm,Sep 04
+7,Maximum amount of rainfall in a year,2477mm,2004
+8,Maximum no of rainy days in a month,27 days,Aug 06 & Jul 08
+9,Maximum no of rainy days in a year,136 days,2013
+10,Maximum no of thunderstorm in a month,23 days,Sep 97
+11,Maximum no of nor’wester in a month,16 days,May 91
+12,Maximum wind speed within 30 years,050/59kt,29 Nov 88
